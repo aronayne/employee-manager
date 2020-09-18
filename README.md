@@ -165,7 +165,7 @@ The project can be improved in the following areas:
 
 * A Spring JPA object model can be mapped to reflect a DB schema. The mapping enables the use of cross table JPA queries to extract DB data and omits writing native queries for cross-table joins. An improvement to this project is instead of mapping each table to a single entity, use JPA to model the relationship's between tables.
 
-* Instead of using an in memory data structure to store the code -> country mappings, cache the mappings.
+* Instead of using an in memory data structure to store the code -> country mappings, cache the mappings with persistent storage.
 
 * Extend the test coverage to ensure the JSON response data structure from each service is correct. For example, the below test checks that the "Software" value is mapped to the "department_name" key at index 0 in the response to the "/job_titles" REST service:
 
