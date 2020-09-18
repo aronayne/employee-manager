@@ -2,7 +2,7 @@
 
 This project exposes REST services to enable various read operations to an Oracle DB hosted on AWS.
 
-All REST endpoints are secured using basic URL authentication.
+All REST endpoints are secured using basic authentication.
 
 ## Built With
 
