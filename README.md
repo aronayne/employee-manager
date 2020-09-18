@@ -151,7 +151,7 @@ A login popup will display prior to Swagger loading, set the username/password f
 
 ## Troubleshooting
 
-For any Maven related issues deleting and re-downloading the project dependencies usually resolves. Re-downloading all dependencies can take some time. For unix based systems to delete the Maven repository navigate to Maven home and execute command:
+For any Maven related issues deleting and re-downloading the project dependencies usually resolves. Re-downloading all dependencies can take some time. For Unix based systems to delete the Maven repository navigate to Maven home and execute the command:
 
 ```sh
 rm -R repository/
