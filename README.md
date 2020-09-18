@@ -134,6 +134,8 @@ http://localhost:8080/employees/active
 http://localhost:8080/employees?department_name=department_name
 ```
 
+## Swagger
+
 Swagger is enabled for this project:
 
 ![Screenshot](https://raw.githubusercontent.com/aronayne/public/master/swag.png)
