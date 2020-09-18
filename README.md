@@ -134,7 +134,7 @@ http://localhost:8080/employees/active
 http://localhost:8080/employees?department_name=department_name
 ```
 
-Swagger is enabled for this project and a listing of the available REST services is available at:
+Swagger is enabled for this project:
 
 ![Screenshot](https://raw.githubusercontent.com/aronayne/public/master/swag.png)
 
