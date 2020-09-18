@@ -31,7 +31,7 @@ cd employee-manager-master
 
 3. Update application.properties
 
-Update src/main/java/application.properties and src/test/java/application.properties to contain the connection credentials which should be provided separately.
+Update src/main/java/application.properties and src/test/java/application.properties to contain the connection credentials which should have been provided separately:
 
 ```sh
 spring.datasource.url=
