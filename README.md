@@ -167,7 +167,7 @@ The project can be improved in the following areas:
 
 * Instead of using an in memory data structure to store the code -> country mappings, cache the mappings with persistent storage.
 
-* Extend the test coverage to ensure the JSON response data structure from each service is correct. For example, the below test checks that the "Software" value is mapped to the "department_name" key at index 0 in the response to the "/job_titles" REST service:
+* Extend the test coverage to ensure the JSON response data structure from each REST service is correct. For example, the below test checks that the "Software" value is mapped to the "department_name" key at index 0 in the response to the "/job_titles" REST service:
 
 ```sh
 given().auth()
